@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #2D1E2F;
+}
+
+.name {
+    font-family: Secular One;
+    font-size: 3vh;
+    font-style: normal;
+    line-height: normal;
+    color: #FFF;
+}
+
+.countdown {
+    font-family: Secular One;
+    font-size: 3vh;
+    font-style: normal;
+    line-height: normal;
+    color: #FFF;
+}
