@@ -3,19 +3,19 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 90vh;
     background: #2D1E2F;
 }
 
-.name {
+.name-display {
     font-family: Secular One;
-    font-size: 3vh;
+    font-size: 10vh;
     font-style: normal;
     line-height: normal;
     color: #FFF;
 }
 
-.countdown {
+.countdown-display {
     font-family: Secular One;
     font-size: 3vh;
     font-style: normal;
